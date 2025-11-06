@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=00F5FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Michael+Joel+Ruiz;Bienvenido+a+mi+perfil+de+GitHub" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=B22222&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Michael+Joel+Ruiz;Bienvenido+a+mi+perfil+de+GitHub" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,9 +22,9 @@
 
 <h4 style="color:#00F5FF">💻 Sobre mí</h4>
 
-Soy un estudiante de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería con un gran interés por la tecnología y la ciberseguridad.  
-Me apasiona el hacking  y la exploración de sistemas, siempre buscando entender cómo funcionan y cómo pueden mejorarse.  
-Me gusta aprender por mi cuenta, experimentar.
+</p>Soy un estudiante de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería (UNI).</p>
+</p>Me apasiona la tecnología, sobre todo la ciberseguridad y el hacking  y la exploración de sistemas o softwares populares en el mundo de la cuberseguridad.Soy autodidacta y bastante perseverante cuando algo me llama la atención, no paro hasta entenderlo o lograrlo.</p>
+
 
 
 
@@ -63,9 +63,10 @@ Me gusta aprender por mi cuenta, experimentar.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2500&pause=1200&color=FF2FD2&center=true&vCenter=true&width=450&lines=%F0%9F%93%AB+Cont%C3%A1ctame" alt="Formas de contacto(typing)" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2500&pause=1200&color=B22222&center=true&vCenter=true&width=450&lines=%F0%9F%93%AB+Enlaces%20de%20contacto" alt="Enlaces de contacto(typing)" />
   </a>
 </div>
+
 
 
 <p align="center">
